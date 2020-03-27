@@ -1,3 +1,6 @@
-# Clean Dotnet Code
+# Dot net Core with Azure funtionalities
 
-Create a Dotnet Core project following a clean architecture and using the best tools.
+The project defines how to use Azure functionalities in .Net Core
+
+## Content
+- Azure Blob Storage
